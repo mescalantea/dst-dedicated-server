@@ -9,6 +9,7 @@ return {
   numrandom_set_pieces=4,
   override_level_string=false,
   overrides={
+    healthpenalty="none",
     alternatehunt="default",
     angrybees="default",
     antliontribute="default",

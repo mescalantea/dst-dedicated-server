@@ -9,3 +9,27 @@
 	--The Workshop id can be found at the end of the url to the collection's Workshop page.
 	--Example: http://steamcommunity.com/sharedfiles/filedetails/?id=379114180
 	--ServerModCollectionSetup("379114180")
+
+-- Simple Health Bar DST
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058
+ServerModSetup("1207269058")
+
+-- Wormhole Marks
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=362175979
+ServerModSetup("362175979")
+
+-- Extra Equip Slots
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=375850593
+ServerModSetup("375850593")
+
+-- Global Positions
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=378160973
+ServerModSetup("378160973")
+
+-- No Thermal Stone Durability
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=466732225
+ServerModSetup("466732225")
+
+-- Global Pause
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=758532836
+ServerModSetup("758532836")
