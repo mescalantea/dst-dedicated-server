@@ -14,22 +14,18 @@
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058
 ServerModSetup("1207269058")
 
--- Wormhole Marks
--- https://steamcommunity.com/sharedfiles/filedetails/?id=362175979
-ServerModSetup("362175979")
+-- Wormhole Marks [DST Continued]
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=3571706033
+ServerModSetup("3571706033")
 
--- Extra Equip Slots
--- https://steamcommunity.com/sharedfiles/filedetails/?id=375850593
-ServerModSetup("375850593")
+-- Extra Equip Slots (Modified)
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=2075943614
+ServerModSetup("2075943614")
 
 -- Global Positions
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=378160973
 ServerModSetup("378160973")
 
--- No Thermal Stone Durability
--- https://steamcommunity.com/sharedfiles/filedetails/?id=466732225
-ServerModSetup("466732225")
-
--- Global Pause
--- https://steamcommunity.com/sharedfiles/filedetails/?id=758532836
-ServerModSetup("758532836")
+-- Imperishable Thermal Stone
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=670918115
+ServerModSetup("670918115")

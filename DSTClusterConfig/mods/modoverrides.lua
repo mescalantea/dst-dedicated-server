@@ -11,14 +11,14 @@ return {
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058
   ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
 
-  -- Wormhole Marks
-  -- https://steamcommunity.com/sharedfiles/filedetails/?id=362175979
-  ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
-
-  -- Extra Equip Slots
-  -- https://steamcommunity.com/sharedfiles/filedetails/?id=375850593
-  ["workshop-375850593"]={ configuration_options={  }, enabled=true },
+  -- Wormhole Marks [DST Continued]
+  -- https://steamcommunity.com/sharedfiles/filedetails/?id=3571706033
+  ["workshop-3571706033"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
   
+  -- Extra Equip Slots (Modified)
+  -- https://steamcommunity.com/sharedfiles/filedetails/?id=2075943614
+  ["workshop-2075943614"]={ configuration_options={  }, enabled=true },
+
   -- Global Positions
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=378160973
   ["workshop-378160973"]={
@@ -34,21 +34,8 @@ return {
     enabled=true 
   },
 
-  -- No Thermal Stone Durability
-  -- https://steamcommunity.com/sharedfiles/filedetails/?id=466732225
-  ["workshop-466732225"]={ configuration_options={  }, enabled=true },
-
-  -- Global Pause
-  -- https://steamcommunity.com/sharedfiles/filedetails/?id=758532836
-  ["workshop-758532836"]={
-    configuration_options={
-      AUTOPAUSECONSOLE=false,
-      AUTOPAUSEMAP=false,
-      AUTOPAUSESINGLEPLAYER=true,
-      ENABLECLIENTPAUSING=false,
-      ENABLEHOTKEY=false,
-      KEYBOARDTOGGLEKEY="P" 
-    },
-    enabled=true 
-  }
+  
+  -- Imperishable Thermal Stone
+  -- https://steamcommunity.com/sharedfiles/filedetails/?id=670918115
+  ["workshop-670918115"]={ configuration_options={  }, enabled=true },
 }
